@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Working
+
+I am a teacher of Guangdong University of Science and Technology (GDUST), serving as the architect/head of the development team at the university's IT Center.
 
 ### Mastering Languages
 
